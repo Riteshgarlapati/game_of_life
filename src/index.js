@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import { ButtonToolbar, MenuItem, DropdownButton } from 'react-bootstrap';
+import { ButtonToolbar } from 'react-bootstrap';
 
 class Box extends React.Component {
 	selectBox = () => {
