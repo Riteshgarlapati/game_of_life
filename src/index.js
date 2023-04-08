@@ -7,7 +7,7 @@ class Box extends React.Component {
 	selectBox = () => {
 		this.props.selectBox(this.props.row, this.props.col);
 	}
-
+//ksvdvjxzh
 	render() {
 		return (
 			<div
